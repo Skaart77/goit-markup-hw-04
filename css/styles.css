@@ -364,7 +364,8 @@ padding-bottom: 20px;
 color: var(--primary-white-color);
 }
 
-.footer-nav{ display:flex;}
+.footer-nav{ display:flex;
+  align-items:center;}
 
 .footer-social{ margin-left: 70px;}
 
