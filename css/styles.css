@@ -375,7 +375,7 @@ color: var(--primary-white-color);
   border-radius: 50%;
   justify-content: center;
   align-items: center;
-  color: var(--clients-color);
+  color: var(--primary-white-color);
   background: rgba(255, 255, 255, 0.1);
 }
 
