@@ -314,9 +314,9 @@ box-shadow: var(--box-shadow);}
   width: 170px;
   height: 92px;
 }
-.client-link:hover , .client-link:focus { border-color: var(--accent-color);}
+.client-link:hover {border-color: var(--accent-color);}
 
-.client-link .icon:hover  { border-colorbcg: var(--accent-color); fill: var(--accent-color)} 
+.client-link .icon:hover  { fill: var(--accent-color)} 
 
 .icon{ 
 fill:currentColor;
